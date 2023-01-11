@@ -1,0 +1,47 @@
+body {
+    display: grid;
+    grid-template-columns: 20% 80%;
+}
+.btn__container {
+    background-color: #434242;
+    height: 100vh;
+    padding: 1em;
+}
+h1 {
+    color: white;
+    font-weight: bold;
+    text-align: center;
+}
+button {
+    padding: 2.5em;
+    margin: .3em;
+    text-align: center;
+    cursor: pointer;
+}
+.btn-azul {
+    background-color: blue;
+}
+.btn-verde {
+    background-color: green;
+}
+.btn-marelo {
+    background-color:yellow ;
+}
+.btn-laranja {
+    background-color: orange;
+}
+.btn-vermelho {
+    background-color: red;
+}
+.btn-roxo {
+ background-color: purple;
+}
+.btn-branco {
+    background-color: white;
+}
+.btn-cinza {
+    background-color: gray;
+}
+.btn-preto {
+    background-color: black;
+}
